@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.whatsapp.vaibhav.com.whatsapp_clone">
+    package="com.whatsapp.vaibhav.com.whatsapp_ui">
    <application
-        android:label="whatsapp_clone"
+        android:label="whatsapp_ui"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
