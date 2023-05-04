@@ -26,6 +26,10 @@ Step 4: Open in your preferred code editor or IDE eg. VS code or Android Studio 
 <img src="https://i.ibb.co/8MHkSXT/Screenshot-20230504-232033.jpg" width="300" height="600">
 <img src="https://i.ibb.co/5jyLFyn/Screenshot-20230504-232039.jpg" width="300" height="600">
 
+## Web SS
+<img width="1079" alt="Screenshot 2023-05-04 233100" src="https://user-images.githubusercontent.com/96773454/236289957-7980c1a1-6e04-4b3a-ac86-e30277112787.png">
+
+
 
 
 
