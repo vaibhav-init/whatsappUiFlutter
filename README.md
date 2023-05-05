@@ -8,12 +8,12 @@ Step 1: Make sure you have Flutter installed in your system(if not refer https:/
 
 Step 2: 
 ```
-git clone https://github.com/vaibhav-init/whatsapp_ui-made-in-Flutter-.git
+git clone https://github.com/vaibhav-init/whatsappUiFlutter.git
 ```
 Step 3 : 
 
 ```
-cd whatsapp_ui-made-in-Flutter-/
+cd whatsappUiFlutter/
 ```
 Step 4: 
 ```
